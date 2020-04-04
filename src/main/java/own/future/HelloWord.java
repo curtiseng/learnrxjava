@@ -20,7 +20,6 @@ public class HelloWord {
         threadPool.shutdown();
     }
 
-    @SuppressWarnings("unchecked")
     public static FutureTask<String> name() {
         return new FutureTask<>(new Callable<String>() {
             @Override
