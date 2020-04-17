@@ -39,6 +39,9 @@ class User {
     }
 }
 
+/**
+ * @author yangzifeng
+ */
 public class AtomicUser {
 
     public static void main(String[] args) {
