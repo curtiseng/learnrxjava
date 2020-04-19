@@ -13,7 +13,7 @@ public class HelloWord {
         ExecutorService threadPool = Executors.newCachedThreadPool();
         threadPool.execute(name);
 
-        System.out.println("异步已提交");
+        System.out.println("sync has commit");
 
         System.out.println(name.get());
 
