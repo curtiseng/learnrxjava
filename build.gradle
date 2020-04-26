@@ -14,4 +14,5 @@ dependencies {
     compile "io.reactivex:rxjava:1.0.0-rc.10"
     testCompile "junit:junit:4.11"
     compile "org.openjdk.jol:jol-core:0.10"
+    compile "org.apache.zookeeper:zookeeper:3.6.0"
 }
