@@ -4,4 +4,4 @@
  *   2. Executor
  *   3. Callable
  */
-package own.thread;
+package thread.thread;

@@ -1,4 +1,4 @@
-package own.util;
+package jvm.util;
 
 import org.openjdk.jol.info.ClassLayout;
 

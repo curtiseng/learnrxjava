@@ -1,4 +1,4 @@
-package own.thread;
+package thread.thread;
 
 import java.util.concurrent.Executors;
 
