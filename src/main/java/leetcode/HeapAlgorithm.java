@@ -3,7 +3,7 @@ package leetcode;
 /**
  * @author yangzifeng
  */
-public class Heap {
+public class HeapAlgorithm {
     // 数组，从下标1开始存储数据
     private int[] a;
     // 堆中可以存储的最大数据个数
@@ -11,7 +11,7 @@ public class Heap {
     // 堆中已经存储的数据个数
     private int count;
 
-    public Heap(int capacity) {
+    public HeapAlgorithm(int capacity) {
         this.a = new int[capacity + 1];
         this.n = capacity;
         this.count = 0;
